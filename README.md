@@ -8,12 +8,6 @@ Atualmente estou estudando Python, APIs REST, SQL, Git, GitHub e boas práticas 
 
 ---
 
-## 🎯 Objetivo profissional
-
-Busco uma oportunidade como **Estagiário em Desenvolvimento Backend** ou **Desenvolvedor Backend Júnior**, onde eu possa aplicar meus conhecimentos em programação, APIs REST, banco de dados e lógica de sistemas, além de continuar evoluindo tecnicamente em projetos reais.
-
----
-
 ## 🚀 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
