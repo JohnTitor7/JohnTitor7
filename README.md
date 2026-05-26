@@ -1,4 +1,87 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Ryan Mendonça
+
+![Backend Developer](https://img.shields.io/badge/Desenvolvedor%20Backend%20em%20formação-Python-blue?style=for-the-badge)
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend, criação de APIs, banco de dados e sistemas web.
+
+Atualmente estou estudando Python, APIs REST, SQL, Git, GitHub e boas práticas de organização de código. Busco evoluir por meio de projetos práticos, criando soluções funcionais, organizadas e aplicáveis a problemas reais.
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco uma oportunidade como **Estagiário em Desenvolvimento Backend** ou **Desenvolvedor Backend Júnior**, onde eu possa aplicar meus conhecimentos em programação, APIs REST, banco de dados e lógica de sistemas, além de continuar evoluindo tecnicamente em projetos reais.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📌 Projetos em destaque
+
+### 🛒 iPeças
+
+Sistema web desenvolvido para consulta de peças de celular, preços e disponibilidade em estoque.
+
+O projeto tem como objetivo simular uma solução real de consulta e controle de produtos, podendo evoluir para uma aplicação completa com backend, API REST, banco de dados e painel administrativo.
+
+**Tecnologias utilizadas:** HTML, CSS e JavaScript
+
+🔗 Repositório: [ipecas](https://github.com/JohnTitor7/ipecas)
+
+---
+
+### 🖥️ Monitor de Servidor Linux
+
+Projeto desenvolvido em Python para coleta e exibição de informações básicas de um sistema Linux.
+
+O objetivo do projeto é praticar automação, manipulação de dados do sistema, organização de scripts e lógica de programação aplicada.
+
+**Tecnologias utilizadas:** Python
+
+🔗 Repositório: [monitor-de-servidor-linux](https://github.com/JohnTitor7/monitor-de-servidor-linux)
+
+---
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento de APIs REST
+- Python para backend
+- Flask e FastAPI
+- Banco de dados SQL
+- Estruturação de projetos backend
+- Código limpo
+- Git e GitHub
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnTitor7&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnTitor7&layout=compact&theme=github_dark)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-vieira-mendon%C3%A7a-da-silva-7647a5335/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-JohnTitor7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnTitor7)
+
+📧 E-mail: ryan2004vm@hotmail.com## Hi there 👋
 
 <!--
 **JohnTitor7/JohnTitor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
