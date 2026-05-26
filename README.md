@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Ryan Mendonça
 
-![Backend Developer](https://img.shields.io/badge/Desenvolvedor%20Backend%20em%20formação-Python-blue?style=for-the-badge)
+![Backend Developer](https://img.shields.io/badge/Desenvolvedor%20Backend-blue?style=for-the-badge)
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend, criação de APIs, banco de dados e sistemas web.
 
@@ -17,6 +17,7 @@ Busco uma oportunidade como **Estagiário em Desenvolvimento Backend** ou **Dese
 ## 🚀 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
